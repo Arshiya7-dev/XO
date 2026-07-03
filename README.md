@@ -16,6 +16,13 @@ A cozy, hand-drawn styled Tic Tac Toe game built with pure vanilla JavaScript an
 
 ---
 
+## ✦ Preview
+
+<p align="center">
+  <img src="asset/S/s1.png" alt="Calculator Preview" width="400" />
+</p>
+
+
 ## ✨ Features
 
 - 🎮 Classic two-player Tic Tac Toe, played locally on one screen
@@ -68,14 +75,6 @@ XO/
 │       └── script.js   # Game logic
 └── README.md
 ```
-
-## 📸 Preview
-
-<p align="center">
-  <a href="https://arshiya7-dev.github.io/XO/">
-    <img src="https://img.shields.io/badge/Click_the_Live_Demo_button_above-to_see_it_in_action-ece3c8?style=flat-square">
-  </a>
-</p>
 
 ## 📄 License
 
