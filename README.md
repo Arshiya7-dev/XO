@@ -22,6 +22,7 @@ A cozy, hand-drawn styled Tic Tac Toe game built with pure vanilla JavaScript an
   <img src="asset/S/s1.png" alt="Calculator Preview" width="400" />
 </p>
 
+---
 
 ## ✨ Features
 
