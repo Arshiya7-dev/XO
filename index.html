@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tic Tac Toe — Paper &amp; Ink</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;700&family=Inter:wght@400;500;600&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="asset/stylesheet/output.css">
+</head>
+
+<body>
+  <div class="sheet">
+    <header>
+      <span class="eyebrow">Two Players</span>
+      <h1>Tic <span>Tac</span> Toe</h1>
+      <p class="sub">Take turns marking a square. Three in a row wins.</p>
+    </header>
+
+    <div class="xo">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+
+    <footer>Drawn in ink <span class="dot">·</span> played on paper</footer>
+  </div>
+
+  <div class="overlay" id="overlay">
+    <div class="modal-card" dir="rtl">
+      <div class="modal-symbol" id="modalSymbol">X</div>
+      <div class="modal-title" id="modalTitle">Player X starts</div>
+      <div class="modal-sub" id="modalSub">Get ready, first move is theirs</div>
+      <button class="modal-btn" id="modalBtn">Let's play</button>
+    </div>
+  </div>
+
+</body>
+<script src="asset/javascript/script.js"></script>
+
+</html>
