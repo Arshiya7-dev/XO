@@ -83,3 +83,14 @@ This project is open source and available for anyone to learn from, fork, and im
 ---
 
 <p align="center">Drawn in ink · played on paper ✒️</p>
+
+---
+
+<div align="center">
+
+Made with ❤️ by **[Arshiya](https://github.com/arshiya7-dev)**
+
+⭐ Star this repo if you found it helpful!
+
+</div>
+
