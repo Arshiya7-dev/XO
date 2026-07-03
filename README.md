@@ -2,7 +2,7 @@
 
 A cozy, hand-drawn styled Tic Tac Toe game built with pure vanilla JavaScript and styled entirely with Tailwind CSS. No frameworks, no dependencies — just clean logic and a warm "paper & ink" aesthetic.
 
-<p>
+<p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
